@@ -79,7 +79,7 @@ body {
 }
 
 .navbar .navbar-extra a:hover {
-  color: var(--primary);
+  color: #5dfa48;
 }
 
 #hamburger-menu {

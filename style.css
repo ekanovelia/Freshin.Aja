@@ -64,7 +64,7 @@ body {
   content: "";
   display: block;
   padding-bottom: 0.5rem;
-  border-bottom: 0.1rem solid #77d36b;
+  border-bottom: 0.1rem solid #7fd366;
   transform: scaleX(0);
   transition: 0.2s linear;
 }
